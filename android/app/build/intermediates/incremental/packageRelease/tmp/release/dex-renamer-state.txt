@@ -1,0 +1,4 @@
+#Thu Sep 09 18:30:46 WIB 2021
+base.0=/Users/macbookpro/Documents/Work/starwars/android/app/build/intermediates/dex/release/mergeDexRelease/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
